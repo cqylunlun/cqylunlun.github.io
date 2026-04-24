@@ -16,11 +16,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my homepage! I am **Qiyu Chen**, a direct Ph.D. student in Pattern Recognition and Intelligent Systems at the **Institute of Automation, Chinese Academy of Sciences (CASIA)**, supervised by Prof. [Zhengtao Zhang](https://scholar.google.com/citations?user=k1IruYkAAAAJ).
+🌐 欢迎来到我的个人主页！我是**陈麒宇**，目前为**中国科学院自动化研究所**模式识别与智能系统专业直博生，导师为[张正涛研究员](https://scholar.google.com/citations?user=k1IruYkAAAAJ)。
 
-My research focuses on **industrial visual anomaly detection**, especially anomaly data synthesis, zero-shot anomaly detection, semantic segmentation, multimodal large models, and robust computer vision systems for industrial inspection.
+🌐 Welcome to my homepage! I am **Qiyu Chen**, a direct Ph.D. student in Pattern Recognition and Intelligent Systems at the **Institute of Automation, Chinese Academy of Sciences (CASIA)**, supervised by [Prof. Zhengtao Zhang](https://scholar.google.com/citations?user=k1IruYkAAAAJ).
 
-Please feel free to contact me if you are interested in research collaboration or academic discussion.
+🔍 我的研究方向聚焦于**工业视觉异常检测**，尤其关注异常数据合成、零样本异常检测、语义分割、多模态大模型以及面向工业检测的鲁棒计算机视觉系统。
+
+🔍 My research focuses on **industrial visual anomaly detection**, especially anomaly data synthesis, zero-shot anomaly detection, semantic segmentation, multimodal large models, and robust computer vision systems for industrial inspection.
+
+😊 如果您对相关研究合作或学术交流感兴趣，欢迎随时与我联系。
+
+😊 Please feel free to contact me if you are interested in research collaboration or academic discussion.
 
 # Resume
 
@@ -117,14 +123,14 @@ Please feel free to contact me if you are interested in research collaboration o
 
 # Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV & TII</div><img src='images/project.png' alt="Low-contrast fabric anomaly segmentation" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/project.png' alt="Low-contrast fabric anomaly segmentation" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Unsupervised Image Segmentation for Low-Contrast Anomalies**
 
 - Developed fabric defect detection and data acquisition equipment for a university–industry collaboration project with Weiqiao Textile.
 - Achieved 99.9% domain-level SOTA performance for subtle fabric defects.
-- Resulted in first-author ECCV and TII papers and two first-author invention patents.
+- Proposed two industrial defect datasets: **WFDD** in the ECCV paper and **ITDD** in the IEEE TII paper.
 </div>
 </div>
 
@@ -148,9 +154,9 @@ Please feel free to contact me if you are interested in research collaboration o
 
 # Awards
 
-- **First Prize**, China Intelligent Robot Fighting Competition, National.
-- **Second Prize**, Chinese Collegiate Computing Design Competition, National.
-- **Third Prize**, National University Intelligent Car Race, National.
+- **First Prize**, China Intelligent Robot Fighting Competition.
+- **Second Prize**, Chinese Collegiate Computing Design Competition.
+- **Third Prize**, National University Intelligent Car Race.
 - **First Prize**, CAS Industrial Vision Achievement Scholarship.
 - **Second Prize**, CASIA Climbing Scholarship.
 - **Merit Student**, University of Chinese Academy of Sciences.
