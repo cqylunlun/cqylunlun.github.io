@@ -13,113 +13,155 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 <span class='anchor' id='about-me'></span>
-🌐欢迎来到我的主页！我是姜雨欣，目前在华中科技大学攻读博士学位，导师为[沈卫明教授](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate)。
 
-🌐Welcome to my homepage! I am Y. Jiang. I am currently a Ph.D. student at Huazhong University of Science and Technology under the supervision of Prof. [Weiming Shen](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate).
+Welcome to my homepage! I am **Qiyu Chen**, a direct Ph.D. student in Pattern Recognition and Intelligent Systems at the **Institute of Automation, Chinese Academy of Sciences (CASIA)**, supervised by Prof. [Zhengtao Zhang](https://scholar.google.com/citations?user=k1IruYkAAAAJ).
 
-我的研究方向围绕**异常检测**展开，涉及**视觉-语言模型**、**图像生成**和**计算机视觉**等.
+My research focuses on **industrial visual anomaly detection**, especially anomaly data synthesis, zero-shot anomaly detection, semantic segmentation, multimodal large models, and robust computer vision systems for industrial inspection. I am interested in building practical learning systems that can work when real defect samples are scarce, subtle, or out of distribution.
 
-My research focuses on **Anomaly Detection**, involving **Vision-Language Models**, **Image Generation**, and **Computer Vision**, etc.
+Please feel free to contact me if you are interested in research collaboration or academic discussion.
 
-如果对我的学术研究感兴趣，任何时候都可以联系我，我非常乐意与您进行交流！😊😊😊
+# Resume
 
-If you are interested in my academic researches, please feel free to contact me at any time, and I will be happy to communicate with you! 😊😊😊
+[![Download my CV (PDF)](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](docs/CV_Qiyu_Chen_jake.pdf)
 
-# 📄 Resume
-[![Download my CV (PDF)](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/yuxin-jiang/yuxin-jiang/raw/main/CV_Yuxin_JIANG.pdf?raw=true)
+# News
+- *2026.03*: Our paper [**CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection**](https://arxiv.org/abs/2508.03447) was accepted by **CVPR Findings**; the [code](https://github.com/cqylunlun/CoPS) has been open-sourced.
+- *2026.01*: Our paper [**MRAD: Zero-Shot Anomaly Detection With Memory-Driven Retrieval**](https://openreview.net/forum?id=TQkFiW3AEX) was accepted by **ICLR**; the [code](https://github.com/CROVO1026/MRAD) has been open-sourced.
+- *2025.11*: Our paper [**TDSS: Task Dynamic-Synergistic Skill Adaptation for Efficient and Scalable Multi-Task Learning**](https://doi.org/10.1609/aaai.v40i14.38172) was accepted by **AAAI**.
+- *2025.11*: Our paper [**Parameter-, Memory-, Time-Efficient Multi-Task Dense Vision Adaptation**](https://doi.org/10.1609/aaai.v40i14.38171) was accepted by **AAAI**.
+- *2025.11*: Our paper [**Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation**](https://doi.org/10.1609/aaai.v40i7.37466) was accepted by **AAAI**; the [code](https://github.com/yuxin-jiang/Anomagic) has been open-sourced.
+- *2025.05*: Our paper [**Center-aware Residual Anomaly Synthesis for Multiclass Industrial Anomaly Detection**](https://doi.org/10.1109/TII.2025.3575122) was published in **IEEE Transactions on Industrial Informatics**; the [code](https://github.com/cqylunlun/CRAS) has been open-sourced.
+- *2025.03*: Our paper [**Bayesian Prompt Flow Learning for Zero-Shot Anomaly Detection**](https://openaccess.thecvf.com/content/CVPR2025/html/Qu_Bayesian_Prompt_Flow_Learning_for_Zero-Shot_Anomaly_Detection_CVPR_2025_paper.html) was accepted by **CVPR**; the [code](https://github.com/xiaozhen228/Bayes-PFL) has been open-sourced.
+- *2024.10*: Our paper [**Progressive Boundary Guided Anomaly Synthesis for Industrial Anomaly Detection**](https://doi.org/10.1109/TCSVT.2024.3479887) was published in **IEEE Transactions on Circuits and Systems for Video Technology**; the [code](https://github.com/cqylunlun/PBAS) has been open-sourced.
+- *2024.07*: Our paper [**A Unified Anomaly Synthesis Strategy with Gradient Ascent for Industrial AD and Localization**](https://doi.org/10.1007/978-3-031-72855-6_3) was accepted by **ECCV**; the [code](https://github.com/cqylunlun/GLASS) has been open-sourced.
 
-# 🔥 News
-- *2025.11*: &nbsp;🎉🎉 Our paper [Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation](https://arxiv.org/pdf/2511.10020) has been accepted by **AAAI (2026, CCF-A)**.
-- *2024.11*: &nbsp;🏆🏆 I received the **National Scholarship for Master’s Students** (the highest scholarship for master’s students).
-- *2024.09*: &nbsp;🎉🎉 Our paper [Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:2osOgNQ5qMEC) has been accepted by **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
-- *2023.11*: &nbsp;🎉🎉 Our paper [A Masked Reverse Knowledge Distillation Method Incorporating Global and Local Information for Image Anomaly Detection](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:9yKSN-GCB0IC) has been accepted by **Knowledge-Based Systems (KBS)**.
-- *2022.11*: &nbsp;🎉🎉 Our paper [A Novel Bio-inspired Algorithm for Global Optimization Problems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:u-x6o8ySG0sC) has been accepted by **Expert Systems with Applications (ESWA)**.
-- *2021.11*: &nbsp;🎉🎉 Our paper [A Diversified Group Teaching Optimization Algorithm with a Segment-Based Fitness Strategy for UAV Route Planning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:u5HHmVD_uO8C) has been accepted by **Expert Systems with Applications (ESWA)**.
-- *2021.11*: &nbsp;🎉🎉 Our paper [A Novel Multi-Objective Group Teaching Optimization Algorithm and Its Application to Engineering Design](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:d1gkVwhDpl0C) has been accepted by **Computers & Industrial Engineering (CAIE)**.
-- *2019.09*: &nbsp;🏆🏆 I received the **National Scholarship for Bachelor’s Students** (the highest scholarship for bachelor’s students).
-  
-# 📝 Publications
-<h2>
-  <a href="#Peer-Reviewed Publications"><u>Peer-Reviewed Publications</u></a>&nbsp; <br>
-  <a href="#Manuscripts under Review"><u>Manuscripts under Review</u></a>&nbsp; <br>
-</h2>
-<span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br>
-<h2 id="Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Peer-Reviewed Publications</h2>
+# Publications
+
 <ol reversed>
-  <li id="FA-Pub1">
-    Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation <a href="https://yuxin-jiang.github.io/Anomagic">[Project]</a> <a href="https://arxiv.org/pdf/2511.10020">[Paper]</a> <a href="https://github.com/yuxin-jiang/Anomagic">[Code]</a> <br>
-    Yuxin Jiang, Wei Luo, Hui Zhang, Qiyu Chen, Haiming Yao, Weiming Shen*, Yunkang Cao* <br>
-    <i>AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong></i>. 2026. (CCF-A)
-</li>
-  <li id="FA-Pub2">
-    Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:2osOgNQ5qMEC">[Paper]</a> <a href="https://github.com/yuxin-jiang/PCSNet">[Code]</a> <br>
-    Yuxin Jiang, Yunkang Cao, Weiming Shen* <br>
-    <i>IEEE Transactions on Neural Networks and Learning Systems <strong>(TNNLS)</strong></i>. 2024. (SCI Q1)
+  <li id="pub-cops">
+    CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection
+    <a href="https://arxiv.org/abs/2508.03447">[Paper]</a>
+    <a href="https://github.com/cqylunlun/CoPS">[Code]</a><br>
+    <strong>Qiyu Chen</strong>, Zhen Qu, Wei Luo, Haiming Yao, Yunkang Cao, et al.<br>
+    <i>CVPR Findings</i>.
   </li>
-  <li id="FA-Pub3">
-    A Masked Reverse Knowledge Distillation Method Incorporating Global and Local Information for Image Anomaly Detection <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:9yKSN-GCB0IC">[Paper]</a> <a href="https://github.com/yuxin-jiang/MRKD">[Code]</a> <br>
-    Yuxin Jiang, Yunkang Cao, Weiming Shen* <br>
-    <i>Knowledge-Based Systems <strong>(KBS)</strong></i>. 2023. (SCI Q1)
+  <li id="pub-cras">
+    Center-aware Residual Anomaly Synthesis for Multiclass Industrial Anomaly Detection
+    <a href="https://doi.org/10.1109/TII.2025.3575122">[Paper]</a>
+    <a href="https://github.com/cqylunlun/CRAS">[Code]</a><br>
+    <strong>Qiyu Chen</strong>, Huiyuan Luo, Haiming Yao, Wei Luo, Zhen Qu, et al.<br>
+    <i>IEEE Transactions on Industrial Informatics <strong>(TII)</strong></i>.
   </li>
-  <li id="FA-Pub4">
-    A Novel Bio-inspired Algorithm for Global Optimization Problems <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:u-x6o8ySG0sC">[Paper]</a> <br>
-    Yuxin Jiang, Qing Wu*, Shenke Zhu, Lin Zhang <br>
-    <i>Expert Systems with Applications <strong>(ESWA)</strong></i>. 2022. (SCI Q1)
+  <li id="pub-pbas">
+    Progressive Boundary Guided Anomaly Synthesis for Industrial Anomaly Detection
+    <a href="https://doi.org/10.1109/TCSVT.2024.3479887">[Paper]</a>
+    <a href="https://github.com/cqylunlun/PBAS">[Code]</a><br>
+    <strong>Qiyu Chen</strong>, Huiyuan Luo, Han Gao, Chengkan Lv, Zhengtao Zhang<br>
+    <i>IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong></i>.
   </li>
-  <li id="FA-Pub5">
-    A Diversified Group Teaching Optimization Algorithm with a Segment-Based Fitness Strategy for UAV Route Planning <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:u5HHmVD_uO8C">[Paper]</a> <br>
-    Shenke Zhu, Qing Wu*, Yuxin Jiang, Wei Xing <br>
-    <i>Expert Systems with Applications <strong>(ESWA)</strong></i>. 2021. (SCI Q1)
+  <li id="pub-glass">
+    A Unified Anomaly Synthesis Strategy with Gradient Ascent for Industrial AD and Localization
+    <a href="https://doi.org/10.1007/978-3-031-72855-6_3">[Paper]</a>
+    <a href="https://github.com/cqylunlun/GLASS">[Code]</a><br>
+    <strong>Qiyu Chen</strong>, Huiyuan Luo, Chengkan Lv, Zhengtao Zhang<br>
+    <i>European Conference on Computer Vision <strong>(ECCV)</strong></i>.
   </li>
-  <li id="FA-Pub6">
-    A Novel Multi-Objective Group Teaching Optimization Algorithm and Its Application to Engineering Design <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:d1gkVwhDpl0C">[Paper]</a> <br>
-    Yuxin Jiang, Qing Wu*, Guozhong Zhang, Shenke Zhu, Wei Xing <br>
-    <i>Computers & Industrial Engineering <strong>(CAIE)</strong></i>. 2021. (SCI Q1)
+  <li id="pub-tdss">
+    TDSS: Task Dynamic-Synergistic Skill Adaptation for Efficient and Scalable Multi-Task Learning
+    <a href="https://doi.org/10.1609/aaai.v40i14.38172">[Paper]</a><br>
+    Haiming Yao, <strong>Qiyu Chen</strong>, Wei Luo, Zheng Zhang, Jianxing Liao, et al.<br>
+    <i>AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong></i>.
+  </li>
+  <li id="pub-mrad">
+    MRAD: Zero-Shot Anomaly Detection With Memory-Driven Retrieval
+    <a href="https://openreview.net/forum?id=TQkFiW3AEX">[Paper]</a>
+    <a href="https://github.com/CROVO1026/MRAD">[Code]</a><br>
+    Chaoran Xu, Chengkan Lv, <strong>Qiyu Chen</strong>, Feng Zhang, Zhengtao Zhang<br>
+    <i>International Conference on Learning Representations <strong>(ICLR)</strong></i>.
+  </li>
+  <li id="pub-pmt">
+    Parameter-, Memory-, Time-Efficient Multi-Task Dense Vision Adaptation
+    <a href="https://doi.org/10.1609/aaai.v40i14.38171">[Paper]</a><br>
+    Haiming Yao, Wei Luo, <strong>Qiyu Chen</strong>, Jianxing Liao, Wei You<br>
+    <i>AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong></i>.
+  </li>
+  <li id="pub-anomagic">
+    Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation
+    <a href="https://doi.org/10.1609/aaai.v40i7.37466">[Paper]</a>
+    <a href="https://github.com/yuxin-jiang/Anomagic">[Code]</a><br>
+    Yuxin Jiang, Wei Luo, Hui Zhang, <strong>Qiyu Chen</strong>, Haiming Yao, et al.<br>
+    <i>AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong></i>.
+  </li>
+  <li id="pub-bayes-pfl">
+    Bayesian Prompt Flow Learning for Zero-Shot Anomaly Detection
+    <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Qu_Bayesian_Prompt_Flow_Learning_for_Zero-Shot_Anomaly_Detection_CVPR_2025_paper.html">[Paper]</a>
+    <a href="https://github.com/xiaozhen228/Bayes-PFL">[Code]</a><br>
+    Zhen Qu, Xian Tao, Xinyi Gong, Shichen Qu, <strong>Qiyu Chen</strong>, et al.<br>
+    <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong></i>.
+  </li>
+  <li id="pub-flower-pot">
+    Distributed Integrated Intelligent Pot Using Remote Monitor and Control System
+    <a href="https://doi.org/10.12677/CSA.2020.102023">[Paper]</a><br>
+    <strong>Qiyu Chen</strong>, Tianming Li, Shengyue Wang, Mingzhong Huang<br>
+    <i>Computer Science and Application <strong>(CSA)</strong></i>.
+  </li>
+  <li id="pub-vr-flower">
+    The Remote Intelligent Virtual Reality Monitoring and Control System for Flower Maintenance
+    <a href="https://doi.org/10.12677/CSA.2016.63015">[Paper]</a><br>
+    <strong>Qiyu Chen</strong>, Peng Gong, Renchun Guo, Gaojian Zhang<br>
+    <i>Computer Science and Application <strong>(CSA)</strong></i>.
   </li>
 </ol>
-<h2 id="Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Manuscripts under Review</h2>
-<ol reversed>
-  <li id="FA-Manuscript1">
-    VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection <br>
-    Yuxin Jiang, Yunkang Cao, Yuqi. Cheng, Yiheng. Zhang, Weiming Shen* <br>
-    <i>IEEE Transactions on Cybernetics <strong>(TCYB)</strong></i>. (Under Review, SCI Q1)
-  </li>
-  <li id="FA-Manuscript2">
-    Bidirectional Adaptive Transformers for Multimodal Anomaly Detection <br>
-    Yuxin Jiang, Yunkang Cao, Weiming Shen* <br>
-    <i>Computers in Industry <strong>(CAIE)</strong></i>. (Under Review, SCI Q1)
-  </li>
-</ol>
 
-# 💻 Projects 
+# Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Work</div><img src='images/zhaogai.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV & TII</div><img src='images/project.png' alt="Low-contrast fabric anomaly segmentation" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Automotive Plastic Parts Defect Detection
+**Unsupervised Image Segmentation for Low-Contrast Anomalies**
 
-[**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Built a high-resolution imaging system for real-time automotive plastic parts inspection, using unsupervised anomaly detection to flag defects in production.
-
-[**Challenge**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Tiny defects, illumination dependency, scarce abnormal data; interclass gaps and multiangle variations hinder robust detection.
+- Developed fabric defect detection and data acquisition equipment for a university–industry collaboration project with Weiqiao Textile.
+- Achieved 99.9% domain-level SOTA performance for subtle fabric defects.
+- Resulted in first-author ECCV and TII papers and two first-author invention patents.
 </div>
 </div>
 
-# 🥇 Honors and Awards
-- **National Scholarship for Master’s Students** (the highest scholarship for master’s students). Nov. 2024.
-- **National Scholarship for Bachelor’s Students** (the highest scholarship for bachelor’s students). Sep. 2019.
+<!-- # Experience
 
-# 📖 Educations
-- ### *2024.09 - present, Huazhong University of Science and Technology*
-  School of Mechanical Science and Engineering
-  ***Ph.D. Candidate*** in Mechanical Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Advisor**: [Weiming Shen](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate)
-- ### *2022.09 - 2024.06, Huazhong University of Science and Technology*
-  School of Mechanical Science and Engineering
-  ***M.S.*** in Mechanical Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Advisor**: [Weiming Shen](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate)
-- ### *2018.09 - 2022.06, Huazhong Agricultural University*
-  School of Agricultural Mechanization and Automation Engineering
-  ***B.S.*** in Agricultural Mechanization and Automation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=GEx5UNgsTQZO0HXocUoir2X2jb3xYvYzLS-DAh9BvTY&co=2793de&ct=ffffff'></script> -->
+- ### *May 2025 - May 2026, Huawei, 2012 Laboratories, Central Research Institute*
+  **AI Algorithm Engineer Intern**, Terminal Computing, Beijing, China  
+  Built an edge-side hardware-software co-designed gesture interaction vision system based on event cameras, constructed a 12-class gesture dataset, and explored efficient fine-tuning for lightweight dense visual prediction on terminal devices.
+
+- ### *Oct. 2023 - Oct. 2024, CASIVision Technology Co., Ltd., Industrial Vision Laboratory*
+  **Computer Vision Algorithm Engineer Intern**, Defect Detection, Beijing, China  
+  Developed defect-detection algorithms for mobile-phone middle-frame inspection and explored defect image generation for back-panel inspection under scarce real-defect data. -->
+
+# Patents
+
+- **Remote Intelligent Flower-Watering System Based on Virtual Reality Technology**, CN105532390B.
+- **Multi-Point Sampling Device and UAV Carrying the Multi-Point Sampling Device**, CN111551401B.
+- **Intelligent Flowerpot Control System, Flowerpot, and Control Method**, CN111657003B.
+- **Defect Detection Method, System, Device, and Computer-Readable Storage Medium**, CN118279280B.
+- **Fabric Surface Defect Detection Method and Related Apparatus**, CN119810058B.
+
+# Awards
+
+- **First Prize**, China Intelligent Robot Fighting Competition, National.
+- **Second Prize**, Chinese Collegiate Computing Design Competition, National.
+- **Third Prize**, National University Intelligent Car Race, National.
+- **First Prize**, CAS Industrial Vision Achievement Scholarship.
+- **Second Prize**, CASIA Climbing Scholarship.
+- **Merit Student**, University of Chinese Academy of Sciences.
+- **Outstanding Graduate**, Tongji University.
+- **Vice President**, College of Electronics and Information Engineering, Tongji University.
+
+# Education
+
+- ### *Sep. 2021 - Jul. 2026, Institute of Automation, Chinese Academy of Sciences*
+  **Direct Ph.D. Student** in Pattern Recognition and Intelligent Systems, Beijing, China  
+  **Advisor**: Prof. [Zhengtao Zhang](https://scholar.google.com/citations?user=k1IruYkAAAAJ)
+
+- ### *Sep. 2017 - Jul. 2021, Tongji University*
+  **B.Eng.** in Communication Engineering, College of Electronics and Information Engineering, Shanghai, China

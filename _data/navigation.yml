@@ -3,18 +3,23 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Resume"
+    url: "/#resume"
+
   - title: "News"
-    url: "/#news"  # 原锚点“#-news”多余横杠，统一去掉
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#publications"  # 去掉多余横杠，与页面锚点匹配
-
-  - title: "Honors and Awards"
-    url: "/#honors-and-awards"  # 去掉多余横杠
-
-  - title: "Educations"
-    url: "/#educations"  # 去掉多余横杠
+    url: "/#publications"
 
   - title: "Projects"
-    url: "/#projects"  # 去掉多余横杠
+    url: "/#projects"
 
+  - title: "Patents"
+    url: "/#patents"
+
+  - title: "Awards"
+    url: "/#awards"
+
+  - title: "Education"
+    url: "/#education"
