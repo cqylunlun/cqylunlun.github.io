@@ -33,6 +33,9 @@ redirect_from:
 [![Download my CV (PDF)](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](/docs/CV_Qiyu_Chen_jake.pdf)
 
 # News
+- *2026.08*: 🎉🎉 Our paper [**Fuse Before Reconstruct: A Novel Reconstruction Paradigm for Multimodal Industrial Anomaly Detection**](https://www.sciencedirect.com/science/article/pii/S1566253526005208) was published in **Information Fusion**.
+- *2026.06*: 🎉🎉 Our paper [**DeltaDeno: Zero-Shot Anomaly Generation via Delta-Denoising Attribution**](https://github.com/CROVO1026/DeltaDeno) was accepted by **ECCV**; the [code](https://github.com/CROVO1026/DeltaDeno) has been open-sourced.
+- *2026.06*: 🎉🎉 Our paper **RUTaL: Residual Upcycling with Task Ladder for Efficient Multi-Task Learning** was accepted by **ECCV**.
 - *2026.03*: 🎉🎉 Our paper [**CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection**](https://openaccess.thecvf.com/content/CVPR2026F/html/Chen_CoPS_Conditional_Prompt_Synthesis_for_Zero-Shot_Anomaly_Detection_CVPRF_2026_paper.html) was accepted by **CVPR Findings**; the [code](https://github.com/cqylunlun/CoPS) has been open-sourced.
 - *2026.01*: 🎉🎉 Our paper [**MRAD: Zero-Shot Anomaly Detection With Memory-Driven Retrieval**](https://openreview.net/forum?id=TQkFiW3AEX) was accepted by **ICLR**; the [code](https://github.com/CROVO1026/MRAD) has been open-sourced.
 - *2025.11*: 🎉🎉 Our paper [**TDSS: Task Dynamic-Synergistic Skill Adaptation for Efficient and Scalable Multi-Task Learning**](https://doi.org/10.1609/aaai.v40i14.38172) was accepted by **AAAI**.
